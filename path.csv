@@ -1,0 +1,106 @@
+Ego Thai,Big Yellow Door,26.1
+Ego Thai,Fio Country Kitchen Bar,4.2
+Ego Thai,Lajpat Nagar,3.8
+Ego Thai,Greater Kailash,5
+Fio Country Kitchen Bar,Chanakyapuri,11.3
+Fio Country Kitchen Bar,Ego Thai,4.2
+Big Yellow Door,Ego Thai,26.1
+Big Yellow Door,Jasola,18.6
+Big Yellow Door,Chanakyapuri,4.8
+"Lights, Camera, Action",Lajpat Nagar,10.3
+"Lights, Camera, Action",Defence Colony,9.4
+"Lights, Camera, Action",Dhaula Kua,5.4
+"Lights, Camera, Action",Chanakyapuri,5.5
+Garage Inc.,Greater Kailash,5.9
+Garage Inc.,Safdarjung,2.6
+Garage Inc.,South Extension,4.6
+Garage Inc.,Vasant Kunj,10
+Garage Inc.,Lajpat Nagar,5.3
+Lodi,Vasant Kunj,15.1
+Lodi,Saket,10.1
+Lodi,The Project at the Park Balluchi,6.7
+Lodi,Safdarjung,6.1
+Lodi,Okhla,12.7
+Rajinder Da Dhaba,Defence Colony,5
+Rajinder Da Dhaba,Raj Nagar,16.3
+The Toddy Shop,South Extension,6.8
+The Toddy Shop,Sarvapriya Vihar,1.4
+The Toddy Shop,Hauz Khas,2.3
+The Toddy Shop,Dhaula Kua,9.4
+The Project at the Park Balluchi,Terminus 1,19.2
+The Project at the Park Balluchi,Saket,6.4
+The Project at the Park Balluchi,Lodi,6
+The Project at the Park Balluchi,Okhla,12.5
+Terminus 1,Sarvapriya Vihar,19.3
+Terminus 1,South Extension,21.2
+Terminus 1,The Project at the Park Balluchi,19.2
+
+
+Jasola,Big Yellow Door,18.6
+Jasola,Sarita Vihar,2.1
+Jasola,Moti Bagh,18.2
+Hauz Khas,Raj Nagar,16.9
+Hauz Khas,Defence Colony,6.6
+Hauz Khas,Dhaula Kua,9.3
+Hauz Khas,The Toddy Shop,2.3
+Hauz Khas,Malviya Nagar,3
+Lajpat Nagar,Ego Thai,3.8
+Lajpat Nagar,Greater Kailash,6.5
+Lajpat Nagar,Garage Inc.,5.3
+Lajpat Nagar,South Extension,2.7
+Lajpat Nagar,Dhaula Kua,10
+Lajpat Nagar,"Lights, Camera, Action",10.3
+Vasant Kunj,Garage Inc.,10
+Vasant Kunj,Lodi,15.1
+Vasant Kunj,Okhla,17.4
+Saket,Safdarjung,7.2
+Saket,Lodi,10.1
+Saket,The Project at the Park Balluchi,6.4
+
+
+Greater Kailash,Ego Thai,5
+Greater Kailash,Garage Inc.,5.9
+Greater Kailash,Lajpat Nagar,2.4
+Chanakyapuri,Big Yellow Door,11.3
+Chanakyapuri,Fio Country Kitchen Bar,5.5
+Chanakyapuri,"Lights, Camera, Action",5.5
+Chanakyapuri,Defence Colony,6.8
+Chanakyapuri,Sarita Vihar,16.6
+Sarita Vihar,Jasola,10
+Sarita Vihar,Chanakyapuri,16.6
+Sarita Vihar,Defence Colony,10.2
+Defence Colony,Sarita Vihar,10.2
+Defence Colony,Chanakyapuri,6.8
+Defence Colony,"Lights, Camera, Action",9.4
+Defence Colony,Hauz Khas,6.6
+Defence Colony,Raj Nagar,19.6
+Defence Colony,Rajinder Da Dhaba,5
+Raj Nagar,Rajinder Da Dhaba,16.3
+Raj Nagar,Defence Colony,19.6
+Raj Nagar,Hauz Khas,16.9
+Raj Nagar,Moti Bagh,12
+Malviya Nagar,Sarvapriya Vihar,1.6
+Malviya Nagar,Hauz Khas,3
+Malviya Nagar,Moti Bagh,9.7
+Dhaula Kua,Lajpat Nagar,10
+Dhaula Kua,The Toddy Shop,9.4
+Dhaula Kua,"Lights, Camera, Action",5.4
+Dhaula Kua,Hauz Khas,9.3
+South Extension,The Toddy Shop,6.8
+South Extension,Terminus 1,21.2
+South Extension,Safdarjung,4.7
+South Extension,Garage Inc.,4.6
+South Extension,Lajpat Nagar,2.7
+Sarvapriya Vihar,Terminus 1,19.3
+Sarvapriya Vihar,Malviya Nagar,1.6
+Sarvapriya Vihar,The Toddy Shop,1.4
+Safdarjung,Garage Inc.,2.6
+Safdarjung,Lodi,6.1
+Safdarjung,Saket,7.2
+Safdarjung,South Extension,4.7
+Okhla,Vasant Kunj,17.4
+Okhla,Lodi,12.7
+Okhla,The Project at the Park Balluchi,12.5
+Moti Bagh,Jasola,18.2
+Moti Bagh,Raj Nagar,13.3
+Moti Bagh,Malviya Nagar,9.1
